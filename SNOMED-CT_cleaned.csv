@@ -1,0 +1,32 @@
+id,text,parent
+102594003,Electrocardiogram abnormal (finding),102592004.0
+301120008,ECG: presence findings,102592004.0
+426664006,ECG: accelerated junctional rhythm,301120008.0
+164885009,ECG: atrial ectopics,301120008.0
+426627000,ECG: bradycardia,301120008.0
+164881000,ECG: ectopic beats,301120008.0
+426151009,ECG: idioventricular rhythm,301120008.0
+426307007,ECG: junctional rhythm,301120008.0
+426648003,ECG: junctional tachycardia,301120008.0
+426453001,ECG: paced rhythm,301120008.0
+426083000,ECG: pacemaker active,301120008.0
+164891006,ECG: paroxysmal atrial tachy,301120008.0
+425856008,ECG: paroxysmal ventricular tachycardia,301120008.0
+164903001,ECG: partial atrioventricular block - 2:1,301120008.0
+164904007,ECG: partial atrioventricular block - 3:1,301120008.0
+164902006,ECG: partial atrioventricular block - long PR,301120008.0
+164900003,ECG: partial sinoatrial block,301120008.0
+425880007,ECG: premature atrial contractions,301120008.0
+427172004,ECG: premature ventricular contractions,301120008.0
+426975008,ECG: pulseless electrical activity,301120008.0
+426783006,ECG: sinus rhythm,301120008.0
+426285000,ECG: normal sinus rhythm,426783006.0
+427393009,ECG: sinus arrhythmia,426783006.0
+426177001,ECG: sinus bradycardia,426783006.0
+427084000,ECG: sinus tachycardia,426783006.0
+164884008,ECG: ventricular ectopics,301120008.0
+428844006,Paired ventricular premature complexes on electrocardiogram,301120008.0
+428418001,T wave alternans on electrocardiogram,301120008.0
+429288002,Ventricular escape rhythm on electrocardiogram,301120008.0
+164854000,Electrocardiogram normal (finding),102592004.0
+2704003,Acute disease,64572001.0
